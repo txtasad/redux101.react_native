@@ -1,0 +1,47 @@
+{
+  "name": "Redux101",
+  "version": "0.1.10",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "android": "cd ./android && ./gradlew app:assembleDebug && ./gradlew installDebug",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@ant-design/react-native": "^3.2.2",
+    "babel-preset-react-native": "^4.0.0",
+    "jsc-android": "^245459.0.0",
+    "react": "16.13.0",
+    "react-native": "^0.61.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-simple-toast": "^1.1.2",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "victory-native": "^32.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/runtime": "^7.9.6",
+    "axios": "^0.18.0",
+    "babel-jest": "^24.7.0",
+    "jest": "^24.7.0",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-native-clean-project": "^3.3.0",
+    "react-native-code-push": "^5.4.1",
+    "react-native-navigation": "^4.8.1",
+    "react-native-vector-icons": "^6.4.2",
+    "react-test-renderer": "16.8.3",
+    "redux-devtools": "^3.5.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "hardcoded_dependencies": {
+    "react-native-navigation": "4.8.1"
+  }
+}
