@@ -7,12 +7,14 @@ A simple and beautiful React Native app to show Redux state management along wit
 
 ## App Screens
 <p align="center">
-    <img src="/screen2.png" width="250" height="380">
-    <img src="/screen3.png" width="250" height="380">
+    <img src="/screen2.png" width="250" height="400">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="/screen3.png" width="250" height="400">
 </p>
 <p align="center">
-    <img src="/screen4.png" width="250" height="380">
-    <img src="/screen1.png" width="250" height="380">
+    <img src="/screen4.png" width="250" height="400">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="/screen1.png" width="250" height="400">
 </p>
 
 
