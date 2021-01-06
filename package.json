@@ -22,7 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/runtime": "^7.9.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-jest": "^24.7.0",
     "jest": "^24.7.0",
     "metro-react-native-babel-preset": "^0.53.1",
