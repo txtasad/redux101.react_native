@@ -27,7 +27,7 @@
     "jest": "^24.7.0",
     "metro-react-native-babel-preset": "^0.53.1",
     "react-native-clean-project": "^3.3.0",
-    "react-native-code-push": "^5.4.1",
+    "react-native-code-push": "^7.0.5",
     "react-native-navigation": "^4.8.1",
     "react-native-vector-icons": "^6.4.2",
     "react-test-renderer": "16.8.3",
